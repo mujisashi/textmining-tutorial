@@ -1,3 +1,15 @@
+# (Korean) Tutorial for text mining
+
+This is a resource for studying text mining. Natural language processing/machine learning-related materials that can be applied regardless of language are included, but also materials for Korean analysis are also included.
+
+- This material is currently being worked on and includes slides and jupyter notebook example codes.
+- This material[soynlp] (https:/github.com/lovit/soynlp)Use package. This is a natural language processing code for Korean language analysis. soynlp is also currently being worked on.
+- Texts related to Slides content are [blog] [hit_bloglI'm posting on •
+- The practice code is[code repository] (https:/github.com/lovit/python_ml4nlp)It is in
+
+
+---
+
 # (한국어) 텍스트 마이닝을 위한 튜토리얼
 
 텍스트 마이닝을 공부하기 위한 자료입니다. 언어에 상관없이 적용할 수 있는 자연어처리 / 머신러닝 관련 자료도 포함되지만, 한국어 분석을 위한 자료들도 포함됩니다. 
